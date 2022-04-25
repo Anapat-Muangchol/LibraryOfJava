@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class GenerateRandomString {
     public static final String SALT_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
 
